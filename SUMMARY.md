@@ -1,6 +1,10 @@
-+ [Startup](sections/s1.md)
-+ [Version 1](sections/s2.md)
-+ [Version 2](sections/s3.md)
-+ [Version 3](sections/s4.md)
-+ [Rollback](sections/s5.md)
-+ [Exercise](sections/s6.md)
+# Table of contents
+
+* [Introduction](README.md)
+* [Startup](s1.md)
+* [Staging & Committing](s2.md)
+* [Selective Staging & Diffing](s3.md)
+* [Logs\(History\) & Un-staging](s4.md)
+* [Rollback](s5.md)
+* [Exercise](s6.md)
+
